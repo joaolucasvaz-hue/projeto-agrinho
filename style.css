@@ -1,0 +1,36 @@
+/* RESETA O NAVEGADOR*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*ALTERA A COR E A FONTE DAS LETRAS */
+body {
+    background-color: bisque;
+    font-family: sans-serif;
+}
+/*CLASSE QUE ALTERA O HEADER */
+.cabecalho {
+    background-color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+/*POSIÇÂO DO TEXTO, TAMANHO DO TEXTO,
+ESPAÇO EM RELAÇAO AO TOPO E AO RODAPE */
+h1 {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+/*ALINHA NO CENTRO, ESCOLHE A FONTE,COR DA FONTE
+TAMANHO DA FONTE E ESPAÇO DE TEXTO EM RELAÇAO
+AO ELMENTO DE BAIXO */
+p {
+    text-align: center;
+    font-family: cursive;
+    color: antiquewhite;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
